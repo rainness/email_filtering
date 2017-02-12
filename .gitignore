@@ -1,0 +1,9 @@
+*.iml
+*.target
+*.log
+*.pyc
+data
+index
+model
+MANIFEST
+*.egg-info
