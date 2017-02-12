@@ -16,7 +16,7 @@ $ pip install jieba / pip3 install jieba
 
 $ wget http://plg.uwaterloo.ca/cgi-bin/cgiwrap/gvcormac/trec06c.tgz
 
-$ tar -zxvf trec0c
+$ tar -zxvf trec0c.tgz
 
 $ cd email_filtering
 
