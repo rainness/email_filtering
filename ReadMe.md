@@ -30,6 +30,6 @@ $ python predict.py model test_email 0.9 10
 
 ## License
 
-Copyright 2016 Rainness individual.
+Copyright 2016 Rainness individually.
 
 Licensed under the Apache License, Version 2.0: http://www.apache.org/licenses/LICENSE-2.0

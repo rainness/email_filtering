@@ -27,7 +27,8 @@ def judge(word_dict, msg, threshold, top_k):
         if cnt >= top_k:
             break
     predict_val = positive_val / (positive_val + negative_val)
-    if (predict_val >= threshold):
+    print "predict:" + str(predict_val)
+    if float(predict_val) >= float(threshold):
         return True
     else:
         return False
